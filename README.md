@@ -1,5 +1,4 @@
 # PFLPosNet
-Smooth Online Multiple Appropriate Facial Reaction Generation  
 [\[ACM MM 2025\] Smooth Online Multiple Appropriate Facial Reaction Generation](https://dl.acm.org/doi/10.1145/3746027.3755716)
 
 # Code Status
